@@ -1,1 +1,2 @@
-JAVA _ADDON
+
+# Java Addon README
